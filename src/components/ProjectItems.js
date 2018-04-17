@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-class Projectitems extends Component {
+class ProjectItems extends Component {
   render() {
     console.log(this.props)
     return (
-      <li className="Items">
+      <li className="ProjectItems">
         My projects
       </li>
     );
